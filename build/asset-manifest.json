@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f411a676.chunk.css",
+    "main.js": "/static/js/main.592d5731.chunk.js",
+    "main.js.map": "/static/js/main.592d5731.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6acd0f96.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6acd0f96.js.map",
+    "static/js/2.13b9b806.chunk.js": "/static/js/2.13b9b806.chunk.js",
+    "static/js/2.13b9b806.chunk.js.map": "/static/js/2.13b9b806.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f411a676.chunk.css.map": "/static/css/main.f411a676.chunk.css.map",
+    "static/js/2.13b9b806.chunk.js.LICENSE.txt": "/static/js/2.13b9b806.chunk.js.LICENSE.txt",
+    "static/media/aubergine.e64f4590.png": "/static/media/aubergine.e64f4590.png",
+    "static/media/belastingdienst.3bf256aa.png": "/static/media/belastingdienst.3bf256aa.png",
+    "static/media/foto.b8dd9f24.png": "/static/media/foto.b8dd9f24.png",
+    "static/media/kniebescherming.9c9fdd8f.png": "/static/media/kniebescherming.9c9fdd8f.png",
+    "static/media/lockdown.450f4dc5.png": "/static/media/lockdown.450f4dc5.png",
+    "static/media/mark_rutte.b9e5f0fc.png": "/static/media/mark_rutte.b9e5f0fc.png",
+    "static/media/schoenen.be6b5075.png": "/static/media/schoenen.be6b5075.png",
+    "static/media/smeerkaas.eec71953.png": "/static/media/smeerkaas.eec71953.png",
+    "static/media/spam.d0da3ebe.png": "/static/media/spam.d0da3ebe.png",
+    "static/media/tomaten.f681db98.png": "/static/media/tomaten.f681db98.png",
+    "static/media/veters.846b8226.png": "/static/media/veters.846b8226.png",
+    "static/media/wc_papier.5e1da96e.png": "/static/media/wc_papier.5e1da96e.png",
+    "static/media/wcbril.3f714324.png": "/static/media/wcbril.3f714324.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6acd0f96.js",
+    "static/js/2.13b9b806.chunk.js",
+    "static/css/main.f411a676.chunk.css",
+    "static/js/main.592d5731.chunk.js"
+  ]
+}
